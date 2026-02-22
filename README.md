@@ -16,4 +16,4 @@ A simple Tic Tac Toe game built using:
 2. Open index.html in your browser
 
 ## Author
-Ankita
+Ankita Das
