@@ -15,5 +15,8 @@ A simple Tic Tac Toe game built using:
 1. Download the project
 2. Open index.html in your browser
 
+## Live Demo
+👉 https://ankita-student.github.io/Tic-Tac-Toe-Game/
+
 ## Author
 Ankita Das
